@@ -24,6 +24,7 @@ hs_err_pid*
 
 # Maven
 target/
+!target/cucumber-report.html
 pom.xml.tag
 pom.xml.releaseBackup
 pom.xml.versionsBackup
